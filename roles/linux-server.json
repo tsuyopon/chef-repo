@@ -1,0 +1,6 @@
+{
+  "name": "linux-server",
+  "run_list": [
+    "recipe[test-cook]"
+  ]
+}
